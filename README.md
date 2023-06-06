@@ -1,4 +1,7 @@
 # damage-calc
+
+[![Damage Calculation Test](https://github.com/kawasakinwwolf/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg?branch=main-2022)](https://github.com/kawasakinwwolf/damage-calc-4005-gh-actions/actions/workflows/main.yml)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 
 計算モジュールに
